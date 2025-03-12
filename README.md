@@ -42,13 +42,6 @@
 
 ---
 
-## 🚀 Projects  
-🔹 [**News_AI_Agents**](https://github.com/username/news_ai_agents) – Automated news generation using LLM and CrewAI  
-🔹 [**Emotion Detection System**](https://github.com/username/emotion-detection) – Real-time human emotion recognition using DeepFace  
-🔹 [**Acne Detection**](https://github.com/username/acne-detection) – Skin condition classification using CNNs  
-
----
-
 ## 🌟 Achievements  
 🏆 **Certified Data Analyst** – Udemy  
 🏆 **AI/ML Certification** – Future Skills Prime  
