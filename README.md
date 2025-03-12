@@ -45,49 +45,31 @@
 ## 🌟 Achievements  
 🏆 **Certified Data Analyst** – Udemy  
 🏆 **AI/ML Certification** – Future Skills Prime  
-🏆 **Shortlisted in Hackathon** – National-level hackathon  
+🏆 **Won in Hackathon** – National-level hackathon 1st Place , Corporate level Hackathon 3rd Place 
 🏆 **Open Source Contributor** – Contributed to AI-based open-source projects  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="400px"/>
-</p>
 
 ---
 
 ## 📈 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandigiri-karthik&layout=compact&theme=radical" width="400px" />
 </p>
 
 ---
 
 ## 🌐 Let's Connect  
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="www.linkedin.com/in/mandigiri-karthik-43a8a1243" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:karthikmandigiri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ⭐️ **Don't forget to star my repositories if you find them useful!** 😎  
-
----
-
-## 🏆 Profile Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&margin-w=15&margin-h=15"/>
-</p>
 
 ---
 
